@@ -1,1 +1,0 @@
-today's schedule: DS-LinkedList and Git
